@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Tarea_Final_2.0/1.0.0": {
+        "runtime": {
+          "Tarea_Final_2.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea_Final_2.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

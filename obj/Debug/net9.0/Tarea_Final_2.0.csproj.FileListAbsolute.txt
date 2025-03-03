@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Tarea Final\Tarea_Final_2.0\bin\Debug\net9.0\Tarea_Final_2.0.exe
+C:\Users\Admin\Desktop\Tarea Final\Tarea_Final_2.0\bin\Debug\net9.0\Tarea_Final_2.0.deps.json
+C:\Users\Admin\Desktop\Tarea Final\Tarea_Final_2.0\bin\Debug\net9.0\Tarea_Final_2.0.runtimeconfig.json
+C:\Users\Admin\Desktop\Tarea Final\Tarea_Final_2.0\bin\Debug\net9.0\Tarea_Final_2.0.dll
+C:\Users\Admin\Desktop\Tarea Final\Tarea_Final_2.0\bin\Debug\net9.0\Tarea_Final_2.0.pdb
+C:\Users\Admin\Desktop\Tarea Final\Tarea_Final_2.0\obj\Debug\net9.0\Tarea_Final_2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Tarea Final\Tarea_Final_2.0\obj\Debug\net9.0\Tarea_Final_2.0.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Tarea Final\Tarea_Final_2.0\obj\Debug\net9.0\Tarea_Final_2.0.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Tarea Final\Tarea_Final_2.0\obj\Debug\net9.0\Tarea_Final_2.0.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Tarea Final\Tarea_Final_2.0\obj\Debug\net9.0\Tarea_Final_2.0.dll
+C:\Users\Admin\Desktop\Tarea Final\Tarea_Final_2.0\obj\Debug\net9.0\refint\Tarea_Final_2.0.dll
+C:\Users\Admin\Desktop\Tarea Final\Tarea_Final_2.0\obj\Debug\net9.0\Tarea_Final_2.0.pdb
+C:\Users\Admin\Desktop\Tarea Final\Tarea_Final_2.0\obj\Debug\net9.0\Tarea_Final_2.0.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Tarea Final\Tarea_Final_2.0\obj\Debug\net9.0\ref\Tarea_Final_2.0.dll
